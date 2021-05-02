@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1059527947740",
+    "firebase_url": "https://meditationvr-7a7dd.firebaseio.com",
+    "project_id": "meditationvr-7a7dd",
+    "storage_bucket": "meditationvr-7a7dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059527947740:android:3bc3919e55b7369a",
+        "android_client_info": {
+          "package_name": "com.meditation.vr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059527947740-6t93mq6vsce2m9kn84o6ckjcbuvt0b38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqePsCaoiw1IjbNyH2LXP785OI3lWYtk4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
