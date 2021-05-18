@@ -18,3 +18,7 @@ This repository contains a Android/Desktop Unity project that enables instructor
             * https://code.google.com/archive/p/openssl-for-windows/downloads
     * `cd C:\Program Files\Java\jdk1.8.0_201\bin`
     * `keytool -exportcert -alias androiddebugkey -keystore "C:\Users\Daniel\.android\debug.keystore" | "C:\Program Files\openssl-0.9.8k_X64\bin\openssl" sha1 -binary | "C:\Program Files\openssl-0.9.8k_X64\bin\openssl" base64`
+
+## License
+
+* Check [LICENSE.md](https://github.com/meditationvr/instructor-app/blob/master/LICENSE.md) for more details
